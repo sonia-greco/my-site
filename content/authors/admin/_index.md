@@ -3,7 +3,7 @@
 title: Sonia Greco
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -38,7 +38,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/sonia-greco
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
