@@ -6,8 +6,8 @@ title: Sonia Greco
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sonia
+last_name: Greco
 
 # Status emoji
 status:
@@ -23,18 +23,18 @@ highlight_name: true
 role: High School Student
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
+#organizations:
+  #- name: OpenAI
+    #url: https://openai.com/ 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:sonia.greco.me@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  #- icon: brands/x
+    #url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
@@ -52,6 +52,14 @@ interests:
   - Origami
 
 education:
+  - institution: Redwood High School
+    date-start: 2021-08-21
+    date-end: 2025-12-06
+    summary:
+      GPA: 4.0/4.0
+    button:
+      text: 'See Transcript'
+      url: 'file:///Users/Sonia/Downloads/GRECO_SONIA_TRANSCRIPT%20(1).PDF'
   - area: PhD Artificial Intelligence
     institution: Stanford University
     date_start: 2016-01-01
@@ -66,7 +74,7 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 4.0/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -77,7 +85,7 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 4.0/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
