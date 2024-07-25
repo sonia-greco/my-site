@@ -52,23 +52,15 @@ interests:
   - Origami
 
 education:
-  - institution: Redwood High School
-    date-start: 2021-08-21
-    date-end: 2025-12-06
-    summary:
-      GPA: 4.0/4.0
-    button:
-      text: 'See Transcript'
-      url: 'file:///Users/Sonia/Downloads/GRECO_SONIA_TRANSCRIPT%20(1).PDF'
   - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Redwood High School
+    date_start: 2021-08-21
+    date_end: 2025-12-06
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'See Transcript'
+      url: 'file:///Users/Sonia/Downloads/GRECO_SONIA_TRANSCRIPT%20(1).PDF'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
