@@ -128,15 +128,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: MMA
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: 
         description: ''
         percent: 80
         icon: camera
@@ -144,9 +144,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Spanish
+    percent: 30
+  - name: Italian
     percent: 25
 
 # Awards.
