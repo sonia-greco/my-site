@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: High School Student
+#role: High School Student
 
 # Organizations/Affiliations to display in Biography blox
 #organizations:
@@ -35,16 +35,16 @@ profiles:
     label: E-mail Me
   #- icon: brands/x
     #url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/instagram
+    #url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/sonia-greco
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/sonia-greco-31283731b/
+  #- icon: academicons/google-scholar
+    #url: https://scholar.google.com/
+  #- icon: academicons/orcid
+    #url: https://orcid.org/
 
 interests:
   - Engineering
