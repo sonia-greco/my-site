@@ -52,10 +52,10 @@ interests:
   - Origami
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: High School Diploma
     institution: Redwood High School
     date_start: 2021-08-21
-    date_end: 2025-12-06
+    date_end: 2025-06-12
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
