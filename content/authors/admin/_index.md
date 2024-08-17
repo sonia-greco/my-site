@@ -185,4 +185,4 @@ awards:
 
 <!--- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
-I am a senior at Redwood High School. My interests revolve around building with my hands, whether it be as simple as origami, or building hydraulic machines, as well as computer programming, knowing the basics of HTML, Python, C++, JavaScript, Lua, and Md. I have also been doing mixed martial arts for the past three year, but currently taking a break due to a knee injury. 
+I am a senior at Redwood High School. My interests revolve around building with my hands, whether it be as simple as origami, or building hydraulic machines, as well as computer programming, knowing the basics of HTML, Python, C++, JavaScript, Lua, and CSS. I have also been doing mixed martial arts for the past three year, but currently taking a break due to a knee injury. 
